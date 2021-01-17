@@ -1,0 +1,58 @@
+head {
+text-align: left;
+width: 300px;
+}
+
+body {
+font-family: Courier New;
+color: orange;
+background-color: rgb(153, 145, 131);
+text-align: center;
+}
+
+.MyTitle {
+background-color: rgb(134, 126, 114);
+color: rgb(226, 154, 19);
+font-weight: bold;
+padding: 55px;
+border: solid 5px grey;
+border-radius: 5px;
+text-align: center;
+background: linear-gradient(90deg, rgb(66, 66, 65), rgb(128, 129, 129));
+}
+.choc {
+border: solid 2px orange;
+border-radius: 75px;
+}
+.chocp{
+text-align: left;
+float: left;
+}
+#footer{
+    background-color: #2f2f2f;
+    padding: 50px 0;
+    text-align: left;
+    margin-left: 5px;
+    
+}
+.column{
+    min-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+#footer h4{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+#footer p{
+    color: white;
+}
+#footer a{
+    color: #1abc9c;
+    text-decoration: none;
+}
+a:hover {
+    color: #F6A623;
+}
